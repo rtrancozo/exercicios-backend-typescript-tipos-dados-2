@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Rodrigo",
+        "email": "rod@rod.com",
+        "cpf": "123456789",
+        "profissao": "backend",
+        "endereco": {
+            "cep": "123456",
+            "rua": "A",
+            "complemento": "casa3",
+            "bairro": "Novo",
+            "cidade": "Serra"
+        }
+    },
+    {
+        "nome": "Daniel",
+        "email": "dan@rod.com",
+        "cpf": "123456",
+        "profissao": "frontend",
+        "endereco": {
+            "cep": "123456",
+            "rua": "A",
+            "complemento": "casa3",
+            "bairro": "Novo",
+            "cidade": "Serra"
+        }
+    }
+]
