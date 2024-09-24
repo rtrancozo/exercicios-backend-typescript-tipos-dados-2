@@ -132,4 +132,4 @@ const rodrigo = {
 // console.log(excluirUsuario('123456789'));
 // cadastrarUsuario(rodrigo)
 
-console.log(listarUsuarios());
+console.log(listarUsuarios("fullstack"));
